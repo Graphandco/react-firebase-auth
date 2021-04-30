@@ -6,7 +6,7 @@
 .pnp.js
 
 # seed
-/src/seed.js
+**/seed.js
 
 # testing
 /coverage
